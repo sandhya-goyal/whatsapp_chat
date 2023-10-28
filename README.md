@@ -18,7 +18,7 @@ To use the WhatsApp Chat Analysis project, follow these steps:
 - Copy code
 
    ``` 
-   git clone  https://github.com/Neeraj1312001/WhatsappChatSentimentAnalysis.git
+   git clone  https://github.com/sandhya-goyal/WhatsappChatSentimentAnalysis.git
    ```
 
 ### Install the required dependencies:
